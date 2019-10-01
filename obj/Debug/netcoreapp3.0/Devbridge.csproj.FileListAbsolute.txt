@@ -1,0 +1,11 @@
+D:\Universitetas\KTU Ketvirtas Kursas\Devbridge\Devbridge\bin\Debug\netcoreapp3.0\Devbridge.exe
+D:\Universitetas\KTU Ketvirtas Kursas\Devbridge\Devbridge\bin\Debug\netcoreapp3.0\Devbridge.deps.json
+D:\Universitetas\KTU Ketvirtas Kursas\Devbridge\Devbridge\bin\Debug\netcoreapp3.0\Devbridge.runtimeconfig.json
+D:\Universitetas\KTU Ketvirtas Kursas\Devbridge\Devbridge\bin\Debug\netcoreapp3.0\Devbridge.runtimeconfig.dev.json
+D:\Universitetas\KTU Ketvirtas Kursas\Devbridge\Devbridge\bin\Debug\netcoreapp3.0\Devbridge.dll
+D:\Universitetas\KTU Ketvirtas Kursas\Devbridge\Devbridge\bin\Debug\netcoreapp3.0\Devbridge.pdb
+D:\Universitetas\KTU Ketvirtas Kursas\Devbridge\Devbridge\obj\Debug\netcoreapp3.0\Devbridge.csprojAssemblyReference.cache
+D:\Universitetas\KTU Ketvirtas Kursas\Devbridge\Devbridge\obj\Debug\netcoreapp3.0\Devbridge.AssemblyInfoInputs.cache
+D:\Universitetas\KTU Ketvirtas Kursas\Devbridge\Devbridge\obj\Debug\netcoreapp3.0\Devbridge.AssemblyInfo.cs
+D:\Universitetas\KTU Ketvirtas Kursas\Devbridge\Devbridge\obj\Debug\netcoreapp3.0\Devbridge.dll
+D:\Universitetas\KTU Ketvirtas Kursas\Devbridge\Devbridge\obj\Debug\netcoreapp3.0\Devbridge.pdb
